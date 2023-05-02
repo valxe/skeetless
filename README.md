@@ -2,4 +2,4 @@
 
 ## skeetless is discontinued, since 05-02-2023
 
-The last "full release" of skeetless was v1, which can be downloaded from the [releases](https://github.com/IUDevman/gamesense-client/releases/tag/2.3.0)
+The last "full release" of skeetless was v1, which can be downloaded from the [releases](https://github.com/valxe/skeetless/releases/tag/skeetless)
